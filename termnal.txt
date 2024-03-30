@@ -1,0 +1,8 @@
+pnpm i gsap @gsap/react
+
+
+pnpm three @react-three/fiber @react-three/drei 
+
+
+pnpm install --save @sentry/react
+pnpx @sentry/wizard@latest -i sourcemaps
